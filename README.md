@@ -2,11 +2,14 @@
 
 Nhà thông minh
 1. Giới thiệu
+   
 1.1 Mục tiêu của đề tài :
    Thực hiện cơ bản 1 nhà thông minh. Nghiên cứu và sử dụng IoT , mô phỏng hệ thống cách hoạt động của các mạch cảm biến được sử dụng trong đề tài.
+   
 1.2 Phạm vi dự án 
   Phạm vi bao gồm : 1 phòng ngủ , 1 phòng khách, 1 phòng bếp, cầu thang tầng 1.
-2. Mô Tả Tổng Quan
+  
+3. Mô Tả Tổng Quan
 Hệ Thống Nhà Thông Minh nhằm nâng cao an toàn, an ninh và tiện lợi cho một ngôi nhà thông qua các tính năng  điều khiển tự động. Hệ thống bao gồm nhiều thành phần hoạt động cùng nhau để đạt được các mục tiêu này.
 
 3 Yêu cầu chức năng
