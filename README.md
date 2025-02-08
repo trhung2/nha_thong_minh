@@ -30,10 +30,9 @@ Hệ Thống Nhà Thông Minh nhằm nâng cao an toàn, an ninh và tiện lợ
 3.3 Cửa Thông Minh
 - Hệ thống sẽ cho phép người dùng khóa và mở khóa cửa qua thẻ từ.
   
-4 Thiết kế ứng dụng.
 
 - Hệ thống sẽ cung cấp cập nhật trạng thái khóa của cửa theo thời gian thực.
 
 - Hệ thống sẽ gửi có chuông mở cửa khi cửa được mở hoặc đóng.
 
-
+4 Thiết kế ứng dụng.
