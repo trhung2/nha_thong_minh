@@ -1,7 +1,6 @@
 # nha_thong_minh
 
 Nhà thông minh
-                                                                           
 1. Giới thiệu
 1.1 Mục tiêu của đề tài :
    Thực hiện cơ bản 1 nhà thông minh. Nghiên cứu và sử dụng IoT , mô phỏng hệ thống cách hoạt động của các mạch cảm biến được sử dụng trong đề tài.
