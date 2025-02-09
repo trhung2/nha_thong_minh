@@ -9,7 +9,8 @@ Nhà thông minh
 1.2 Phạm vi dự án 
   Phạm vi bao gồm : 1 phòng ngủ , 1 phòng khách, 1 phòng bếp, cầu thang tầng 1.
   
-3. Mô Tả Tổng Quan
+2. Mô Tả Tổng Quan
+
 Hệ Thống Nhà Thông Minh nhằm nâng cao an toàn, an ninh và tiện lợi cho một ngôi nhà thông qua các tính năng  điều khiển tự động. Hệ thống bao gồm nhiều thành phần hoạt động cùng nhau để đạt được các mục tiêu này.
 
 3 Yêu cầu chức năng
