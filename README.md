@@ -7,6 +7,7 @@ Nhà thông minh
 1.1 Mục tiêu của đề tài :
    Thực hiện cơ bản 1 nhà thông minh. Nghiên cứu và sử dụng IoT , mô phỏng hệ thống cách hoạt động của các mạch cảm biến được sử dụng trong đề tài.
    Hệ thống nhà thông minh này sẽ giám sát các yếu tố khí gas, nhiệt độ và chuyển động trong nhà, cảnh báo cho người sử dụng khi có nguy hiểm hoặc thay đổi lớn về môi trường.
+   
 1.2 Phạm vi dự án 
   Phạm vi bao gồm : 1 phòng ngủ , 1 phòng khách, 1 phòng bếp, cầu thang tầng 1.
   
@@ -38,6 +39,8 @@ Hệ Thống Nhà Thông Minh nhằm nâng cao an toàn, an ninh và tiện lợ
 - Hệ thống sẽ cung cấp cập nhật trạng thái khóa của cửa theo thời gian thực.
 
 - Hệ thống sẽ gửi có chuông mở cửa khi cửa được mở hoặc đóng.
+  
 3.4 Cảm biến nút bấm bật tắt đèn và quạt .
+  - Hệ thống cảm biến bật tắt đèn khi chạm vào , chạm 1 lần bật đèn , 2 lần bật quạt.
 
 4 Thiết kế ứng dụng.
